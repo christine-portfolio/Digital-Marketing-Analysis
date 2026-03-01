@@ -15,7 +15,7 @@ It explores ROMI by campaigns, category and performance of the campaign using in
 - How to visualize insights in PowerBi.
 
 ## Preview
-![Dashboard Screenshot](https://github.com/ChrysDom/E-commerce-sales-analysis/commit/adaf9290f33e609b8c0f9a2cfd8a7dacf4703567#diff-7f93c108ac236b5f1040e5d863c1bb8d443d626b5a17e5e071665f97bca025bb)
+![Dashboard Screenshot](https://github.com/christine-portfolio/Digital-Marketing-Analysis/commit/5cfec4786473ccb407e49abadd21a2733575122e)
 
 >Click the image above to see a preview of the final dashboard.
 
